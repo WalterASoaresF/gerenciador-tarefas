@@ -8,10 +8,10 @@ Aplicacao de console em Java puro. Todas as estruturas sao implementadas manualm
 
 | Estrutura | Uso no sistema | Pacote | Responsavel |
 |---|---|---|---|
-| Arvore Binaria de Busca | Funcionarios e usuarios (busca por ID) | `abb` | Integrante 1 |
-| Fila | Tarefas pendentes no backlog | `fila` | Integrante 2 |
-| Pilha | Undo para restaurar tarefas excluidas | `pilha` | Integrante 3 |
-| Modelo, Main e integracao | `Tarefa`, `Funcionario`, menu e fluxo | `modelo` e `Main` | Integrante 4 |
+| Arvore Binaria de Busca | Funcionarios e usuarios (busca por ID) | `abb` | Vinicius Cruz |
+| Fila | Tarefas pendentes no backlog | `fila` | Gustavo Correia |
+| Pilha | Undo para restaurar tarefas excluidas | `pilha` | Yan Rios |
+| Modelo, Main e integracao | `Tarefa`, `Funcionario`, menu e fluxo | `modelo` e `Main` | Walter Soares |
 
 ## Fluxo
 
